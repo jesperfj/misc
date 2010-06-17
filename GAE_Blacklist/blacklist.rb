@@ -11,7 +11,6 @@ open("http://java.sun.com/javase/6/docs/api/allclasses-frame.html") { |f|
     end
   }
 } 
-#all.keys.each { |key| puts key }
 unknown = {}
 n_all = all.size
 n_white = 0
